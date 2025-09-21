@@ -1,7 +1,4 @@
-```markdown
-# PAPER NAME
-
-Deep Scattering: Rendering Atmospheric Clouds with Radiance-Predicting Neural Networks
+# Deep Scattering: Rendering Atmospheric Clouds with Radiance-Predicting Neural Networks
 Published on 2017-09-15. Accessible at http://arxiv.org/abs/1709.05418.
 
 ## Purpose
