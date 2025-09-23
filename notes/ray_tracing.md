@@ -26,7 +26,4 @@ The authors mention that their formula "does not provide for diffuse reflection 
 
 ## Relevance to the SWAMP
 
-HOW IS THIS PAPER RELEVANT TO SWAMP'S RESEARCH, IF AT ALL? WHAT ARE THE
-KEY POINTS FOR US TO UNDERSTAND/KNOW?
-
 This paper explains the theory behind ray tracing and how the shader interacts with the rays. In general, a ray is emitted from the viewer which when intersecting with a surface, can be represented as a function of the light coming from various other directions and the material properties of the surface. This generates a tree which will stop branching when it does not intersect with an object, or if a max depth limit is reached.
